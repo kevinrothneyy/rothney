@@ -19,7 +19,7 @@
 					<th colspan="2">Cabecera Múltiples Columnas</th>
 				</tr>
 				<tr>
-					<th>Primera Col. Cab.</th>
+					<th>Primera Coool. Cab.</th>
 					<th>Segunda Col. Cab.</th>
 				</tr>
 			</thead>
