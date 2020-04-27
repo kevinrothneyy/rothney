@@ -7,7 +7,7 @@
 <body>
     <div>   
     <table border="1" style=”width: 100%”>
-			<caption>Titulo de tabla</caption>
+			<caption>Holi de tabla</caption>
 			<colgroup>
 				<col style="width: 20%"/>
 				<col style="width: 40%"/>
